@@ -2,7 +2,7 @@
 """
 Created on Mon Sep 28 12:04:24 2020
 
-@author: user
+@author: HyewonSung
 """
 
 from fractions import Fraction
